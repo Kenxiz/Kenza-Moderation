@@ -1,0 +1,13 @@
+Hi There User,
+
+Kenza Moderation currently only uses Datastore to Save Bans so you must do the following instruction:
+
+1. Go to Game Settings.
+
+2. Go to Security.
+
+3. Enable HTTPRequests and API Services.
+
+4. And Save!
+
+Now your Kenza should be ready to work!
